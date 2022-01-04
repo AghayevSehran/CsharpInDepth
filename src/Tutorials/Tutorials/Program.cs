@@ -35,8 +35,9 @@ namespace Tutorials
             return names;
         }
 
+
         //version 3
-        static ArrayList GenerateNamesStringCollection()
+        static StringCollection GenerateNamesStringCollection()
         {
             StringCollection names = new StringCollection();
             names.Add("Gamma");

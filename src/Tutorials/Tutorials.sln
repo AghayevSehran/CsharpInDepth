@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorials", "Tutorials\Tutorials.csproj", "{2EE9DBC2-704C-4095-890D-AE6D0A78AF01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorials", "Tutorials\Tutorials.csproj", "{2EE9DBC2-704C-4095-890D-AE6D0A78AF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethods", "GenericMethods\GenericMethods.csproj", "{714992F5-0A81-47AF-82BB-841593B37595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInterator", "SimpleInterator\SimpleInterator.csproj", "{A96595B4-3D55-4D35-8EA1-645E99591F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowardToLinq", "TowardToLinq\TowardToLinq.csproj", "{87581A41-CE2F-4A59-A69F-DBCC7ACA4AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTyping", "DynamicTyping\DynamicTyping.csproj", "{4A1952F9-7C58-4C24-9B6F-368F18B7E750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{2EE9DBC2-704C-4095-890D-AE6D0A78AF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE9DBC2-704C-4095-890D-AE6D0A78AF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE9DBC2-704C-4095-890D-AE6D0A78AF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714992F5-0A81-47AF-82BB-841593B37595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714992F5-0A81-47AF-82BB-841593B37595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714992F5-0A81-47AF-82BB-841593B37595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714992F5-0A81-47AF-82BB-841593B37595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96595B4-3D55-4D35-8EA1-645E99591F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96595B4-3D55-4D35-8EA1-645E99591F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96595B4-3D55-4D35-8EA1-645E99591F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96595B4-3D55-4D35-8EA1-645E99591F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87581A41-CE2F-4A59-A69F-DBCC7ACA4AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87581A41-CE2F-4A59-A69F-DBCC7ACA4AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87581A41-CE2F-4A59-A69F-DBCC7ACA4AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87581A41-CE2F-4A59-A69F-DBCC7ACA4AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1952F9-7C58-4C24-9B6F-368F18B7E750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1952F9-7C58-4C24-9B6F-368F18B7E750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1952F9-7C58-4C24-9B6F-368F18B7E750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1952F9-7C58-4C24-9B6F-368F18B7E750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
